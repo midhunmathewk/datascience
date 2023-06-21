@@ -2,4 +2,4 @@ import pandas as pd
 
 a = np.array([1,2,3,4])
 
-print(a[0])
+print(a[0], a[1])
